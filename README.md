@@ -1,0 +1,2 @@
+# Predicting-the-arrival-time-and-first-motion-polarity-of-seismic-phases-based-on-probabilistic-
+Predicting the arrival time and first motion polarity of seismic phases based on probabilistic methods and quantifying uncertainties. Original Algorithm Reference：Pei W L, Zhuang J C, Zhou S Y. 2025. Stochastic determination of arrival time and initial polarity of seismic waveform. Earth, Planets and Space, 77:36
